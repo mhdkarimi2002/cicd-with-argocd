@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: mhdkarimi/cicd-with-argocd
-  tag: "latest"
+  tag: "292bcf7b33aeb81a97420948278c41e71d268c89"
   pullPolicy: IfNotPresent
 
 service:
